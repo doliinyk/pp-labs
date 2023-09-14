@@ -1,6 +1,5 @@
 package lpnu.denysoliinyk.oi2023.pp.lab2.product;
 
-import java.util.Date;
 import java.util.UUID;
 
 public class Product {
